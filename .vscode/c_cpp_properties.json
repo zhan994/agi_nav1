@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/devel/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/amcl/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/base_local_planner/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/carrot_planner/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/clear_costmap_recovery/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/costmap_2d/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/dwa_local_planner/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/global_planner/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/map_server/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/move_base/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/move_slow_and_clear/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/nav_core/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/navfn/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/rotate_recovery/include/**",
+        "/home/zhan/Workspace/github/agi_nav1/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
